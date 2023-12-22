@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "entity-sentiment-407003",
+  "private_key_id": "89e464e936f9b2770619826d786f3690a26cfdc4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6QWpR4CdoaJaC\noaZ1Firak6uuSNaOvEJqUR3L/HKVn0uBrBBnkHGTY1pL4xTXsM6zXpCdJC5ihcAi\niQbmD+LRKZnBYh5GCtpH6CXPppyhXaVMDNej8MLcotR60DJpndJx+LSg7mb2A9mU\nIHuXqnL934vNv+CyHL60uucdSjYffYaBjQwVoQUJNQ+uSDa311YwPFet6IPRWyhW\n/W8uThfHgdhTJiZWbm+HQd+j8nYmBNbvtGhdTkiScIwZ/gkFncGwhIVhiGvdOHrJ\nsVnOVotpv6ZKWPnJp942arrF7DlJYs+jD6Vy9YHBj2++IJ2r6qkD2CEew+WTxmKR\nGarG1mGLAgMBAAECggEAKq0/d8g1L2K7je4NLonoQtIQRexxoR3419SDT9ClzqvD\nyNAMqDY8F+ntcDL1fSCJlCboWuFF8ZQ0/JTKLF/aeFOgY+OgDSuCbXR/aW+DNyQ2\nclEE/g72D0kOB5/51SJw7GVwuek2VUt3iM3Sk+Nd2tbkeT3sddNJTS8AMsFk2lzr\n+KZxLtXY5mjcyXqd54FnnYMWYyE3VbPCYsKFAeL7U1c64mApQHwPggd7YuYrNOKF\nUON5koV6gM5ymjVz57Cl9N4oRy0FH0JxK74FW6bPqIH8k6yZZ4v5AfWBVm4cuI7W\nUJXxb7RfD1p2HH0iI3frh8FZb9fJnOLvltxSa5mRaQKBgQDoXaVEGEccF2X4jMWV\nvjNlCVHb7V9JGLro14E6hG8LpTMDxLsM/Y/WiXzKvNT3CSv8hjV5Fp2WGXVRbxy7\n43zgPUSS+uPunLELQ2GqDsx6baoP3Ufsevm0RFhKSM3UQWMDWqUAmq+nOW9qp90m\ni2iZPzDKVBwCSGjdR8rH4/msEwKBgQDNMyXQGYfo45hUQBiKqEhQ4KHpguoji8NF\nf5+IcEiavirjs5uMCNUv8vP/uzdFa+/fehQYl4FHKN2TbL9+TAxgx+HZMs2jSisl\n3+Cz8GVQdQlsJyrLAWmqFmAWbPvWAT9Li/+mnYMRdM82ntsUK66VDebu2OMSCWxT\nwdJFDtQzqQKBgHg3SrNqJBACgv0OR4LrPke9hJ5VtoBozPp91BvkPFc4Bqaid2uH\nG42Q4AE7pKqSEjG5dZzJ+ImZbjrNU35ZeVfCGuI37wiaBHahS7vhoCSO6/b9MqLE\nFMAQw+TaubJgictIcClZ3hqT+nKhmibA5UKzkJh832jG8YnaBK1Z4ugFAoGADAuP\nkaqd/r61Z2SnzCPastysxG9J3TJMER1PuQuWR3cYP2uAmvS9xuXFCuLreKjAWObq\nnRLvpMSyVQASMZC3PUseZ8iCp64n4D5HC2j2GYX1OqMF8QqxMCnGFCrrkYFbPM0I\nAbjHQ9QOgc9LXuC9i8RYJPcYRSvGbxg2hpU7QZkCgYAB4B/yoV43IuoMbbmE3YXI\nC8egQjvcOXb/ujthZzGMP110p/9zBOeOsd0+B4XyZA0EnA8uNR2xxYhyup5bCbEy\nXgnFpzsGdEJ7mnLmnt6ipkGHSHdYuIMH3Cq4pglEiQp8zsG9LXwv5qGEWEdFBKmW\noc6y1yHSgObyGoFH4cdW8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "heinerbuchholz@entity-sentiment-407003.iam.gserviceaccount.com",
+  "client_id": "111426480810125987248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/heinerbuchholz%40entity-sentiment-407003.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
